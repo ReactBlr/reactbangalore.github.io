@@ -8,3 +8,6 @@
 
 &nbsp;
 
+What do you think the website should have? Drop your suggestion here: [website#1](https://github.com/ReactBangalore/website/issues/1)
+
+&nbsp;
